@@ -5,10 +5,7 @@ Codeforces<br/>
 <br/>
 牛客<br/>
 
-<br/>
 洛谷<br/>
 
-<br/>
 XCPC<br/>
 
-<br/>
