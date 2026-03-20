@@ -1,2 +1,13 @@
 # 训练情况
-Codeforces/牛客/洛谷/XCPC
+Codeforces<br/>
+1700：[CF2161B](https://codeforces.com/contest/2161/problem/B)
+<br/>
+牛客<br/>
+
+<br/>
+洛谷<br/>
+
+<br/>
+XCPC<br/>
+
+<br/>
