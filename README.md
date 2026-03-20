@@ -1,5 +1,5 @@
 # 训练情况
-我要变强!!!
+**我要变强!!!**<br/>
 Codeforces<br/>
 1700：[CF2161B](https://codeforces.com/contest/2161/problem/B)
 <br/>
