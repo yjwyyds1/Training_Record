@@ -1,6 +1,8 @@
 # 训练情况
 **我要变强!!!**<br/>
 Codeforces<br/>
+1500：[CF1418C](https://codeforces.com/contest/1418/problem/C)
+<br/>
 1600：[CF2061D](https://codeforces.com/contest/2061/problem/D) [CF2061C](https://codeforces.com/contest/2061/problem/C)
 <br/>
 1700：[CF2161B](https://codeforces.com/contest/2161/problem/B) [CF2152D](https://codeforces.com/contest/2152/problem/D) 
