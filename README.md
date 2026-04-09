@@ -24,7 +24,8 @@ Atcoder<br/>
 洛谷<br/>
 [P3373 【模板】线段树 2](https://www.luogu.com.cn/problem/P3373)<br/>
 [P12172 蓝桥杯 2025 省 Python B LQ 图形](https://www.luogu.com.cn/problem/P12172)<br/>
-[P12173 蓝桥杯 2025 省 Python B 最多次数](https://www.luogu.com.cn/problem/P12173)
+[P12173 蓝桥杯 2025 省 Python B 最多次数](https://www.luogu.com.cn/problem/P12173)<br/>
+[P12174 蓝桥杯 2025 省 Python B A · B Problem](https://www.luogu.com.cn/problem/P12174)
 <br/>
 XCPC<br/>
 
