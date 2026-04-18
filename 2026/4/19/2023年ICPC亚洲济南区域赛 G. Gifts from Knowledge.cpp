@@ -1,4 +1,3 @@
-//https://codeforces.com/gym/104901/problem/G
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long int;
@@ -16,6 +15,12 @@ random_device rd;
 mt19937 gen(rd());
 uniform_int_distribution<> Tp(1, 100);
 // cout<<fixed<<setprecision(10);
+
+
+//分类讨论一下 对应的列1的总和不超过2 
+//然后用那个并查集 分成两种情况有约束的建边 判断会不会冲突
+// 11 00 同时操作或者都不同操作 
+// 10 01 只操作其中一个
 struct dsu{
     int n;
     vector<int> f;
