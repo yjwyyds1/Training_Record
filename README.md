@@ -39,6 +39,7 @@ XCPC<br/>
 [2021年XCPC真题混练](https://vjudge.net/article/3893)<br/>
 <br/>
 [2023年ICPC亚洲济南区域赛 G. Gifts from Knowledge](https://codeforces.com/gym/104901/problem/G)<br/>
+[2023年ICPC网络赛（I）D. Transitivity.cpp](https://codeforces.com/gym/104639/problem/D)<br/>
 <br/>
 牛客<br/>
 
